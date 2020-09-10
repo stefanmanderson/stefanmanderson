@@ -1,6 +1,9 @@
 ### Hi there 👋
 I am currently taking management bachelor degree at Parahyangan Catholic University. 
-I am currently learning Python and SQL. I am learning on DataCamp and Udemy. 
+
+I am currently learning Python and SQL using DataCamp and Udemy. 
+
+You can see my CV on this repositories. Thank you!
 <!--
 **stefanmanderson/stefanmanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
